@@ -25,6 +25,6 @@ I am a Frontend Engineer, responsible for implementing visual elements that user
 ![](https://img.shields.io/badge/Tailwind_UI-UI_Framework-informational?style=flat-square&logo=tailwindcss&logoColor=white&color=2bbc8a)
 
 #### Back-end
-![](https://img.shields.io/badge/Strapi-CRM-informational?style=flat-square&logo=strapi&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Strapi-CMS-informational?style=flat-square&logo=strapi&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/GraphQL-API-informational?style=flat-square&logo=graphql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Apollo-API-informational?style=flat-square&logo=apollographql&logoColor=white&color=2bbc8a)
