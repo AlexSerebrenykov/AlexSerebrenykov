@@ -8,6 +8,7 @@ I am a Frontend Engineer, responsible for implementing visual elements that user
 
 ![](https://img.shields.io/badge/JavaScript-Language-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/TypeScript-Dialect-informational?style=flat-square&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/REST)
 
 #### IDE
 ![](https://img.shields.io/badge/WebStorm-Editor-informational?style=flat-square&logo=webstorm&logoColor=white&color=2bbc8a)
@@ -28,3 +29,4 @@ I am a Frontend Engineer, responsible for implementing visual elements that user
 ![](https://img.shields.io/badge/Strapi-CMS-informational?style=flat-square&logo=strapi&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/GraphQL-API-informational?style=flat-square&logo=graphql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Apollo-API-informational?style=flat-square&logo=apollographql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/REST-API-informational?style=flat-square&logo=rest&logoColor=white&color=2bbc8a)
